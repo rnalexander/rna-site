@@ -6,7 +6,7 @@ permalink: /about/
 Hello!  My name is Ryan Alexander, and this is finally some kind of personal web-presence, as opposed to just an ongoing social media presence.
 
 It me:
-<img src="{{ "/assets/rna_pomp.jpg" | prepend: site.url }}">
+<img src="{{ "/assets/rna_pomp.jpg" | prepend: site.baseurl }}">
 
 I'm currently the Lead back-end developer for the [Money Advice Service](https://www.moneyadviceservice.org.uk).
 
