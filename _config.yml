@@ -10,8 +10,8 @@ title: Ryan's little corner of the web
 email: rnalexander@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Culture, Code, Cooking, and Cocktails
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://rnalexander.com" # the base hostname & protocol for your site
+baseurl: "/rna-site" # the subpath of your site, e.g. /blog
+url: "https://rnalexander.github.io" # the base hostname & protocol for your site
 twitter_username: rnalexander
 github_username: rnalexander
 
