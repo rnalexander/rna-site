@@ -2,7 +2,8 @@
 layout: post
 title:  "I am speaking at the Lead Developer 2016 conference"
 date:   2016-06-19 17:47:05 +0100
-categories: update,conferences,speaking
+categories: update
+tags: [conferences,speaking]
 ---
 I'm going to be speaking at this year's [Lead Developer conference][lead-dev-2016]!
 
