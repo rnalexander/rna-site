@@ -3,11 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-Hello!  My name is Ryan Alexander, and this is finally some kind of personal web-presence, as opposed to just an ongoing social media presence.
 
-It me:
+Ryan is currently the Lead back-end developer for the [Money Advice Service](https://www.moneyadviceservice.org.uk) based in London.  He's been helping organise large-to-small scale community events for a quarter of a century. He is passionate about inclusion, diversity, giving people the best chance to do their best, and believes that empathy is the key to making that happen.  He's also fond of board gaming and cocktails in case he's getting too sincere and you'd like to distract him onto a different topic.
+
+His pronouns are He/Him/His.
+
+He looks a bit like this:
+
 <img src="{{ "/assets/rna_pomp.jpg" | prepend: site.baseurl }}">
-
-I'm currently the Lead back-end developer for the [Money Advice Service](https://www.moneyadviceservice.org.uk).
-
-This is all a bit bare bones at the moment.  You'll probably reconize this all as the base [Jekyll](http://jekyllrb.com/) theme.  More fancier stuff should be coming later but for right now I hope this will do.  Minimum Viable Website and all that.
