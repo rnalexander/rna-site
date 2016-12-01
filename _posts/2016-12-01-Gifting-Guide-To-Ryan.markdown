@@ -9,6 +9,8 @@ Every year in the middle of trying to figure out what to get folks for the holid
 
 So here is the Gifting Guide to Ryan:
 
+Gifts are given, not reciprocated, if I give you something you're under no obligation to give me something back.
+
 Give me no gift that incurs you debt.
 
 Small is better than big.
