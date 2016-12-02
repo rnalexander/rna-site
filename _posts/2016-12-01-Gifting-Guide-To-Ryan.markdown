@@ -25,6 +25,8 @@ If you gift me booze I’ll likely make you a cocktail with it.
 
 Sending me expensive stuff from the US to the UK yourself stands a good chance of incurring me import fees.
 
+I wear 3XL American Apparel T-shirt by preference.  If you don't know the brand and there's a tall/long option I prefer that.  I like clever t-shirts but dislike designs done in a thick layer of solid-rubbery ink (shirt won't breathe and I'll get sweaty)
+
 If all else fails and you need a quick win, I have a [wish list][amazon-wish-list] on Amazon UK under my name.
 
 [amazon-wish-list]: https://www.amazon.co.uk/registry/wishlist/DE560SX81JF1/
